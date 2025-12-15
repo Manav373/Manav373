@@ -1,5 +1,11 @@
 # 💫 About Me:
-i am student right now i was completed 2 internshiip and i am exper to c ,c++ java ,python ,javascript ,react ,node js <br>
+I’m a passionate student currently exploring the world of Artificial Intelligence and Machine Learning. I’ve built a strong foundation in programming with C++ and Python, and I’m constantly looking for ways to apply my skills through real-world projects and learning opportunities.
+
+My goal is to grow into a skilled AI Developer by continuously learning new technologies, collaborating with others, and solving problems that matter. I’m open to internships, mentorship, or any opportunity that helps me improve and contribute.
+
+📌 Skills: Python, C++, Machine Learning, AI Concepts  
+📌 Interests: Deep Learning, Natural Language Processing, Computer Vision  
+📌 Learning: Working on projects using Python libraries like NumPy, Pandas, Scikit-learn, and more.<br>
 
 
 ## 🌐 Socials:
